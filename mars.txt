@@ -1,4 +1,5 @@
 We are embarking on a trip, my research tools are packed.
 We are blasting off to the International Space Station.
 We are docked in the ISS and ready to sling to Mars.
-We are in Mars orbit.
+We are in Mars orbit and ready for descent.
+We have successfully landed on Mars.
